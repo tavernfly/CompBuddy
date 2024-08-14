@@ -44,7 +44,7 @@
         }
         public void IncrementTime()
         {
-            if (Time < 500) Time = Time + 1;
+            if (Time < 30000) Time = Time + 1;
         }
         public void ResetTime()
         {
