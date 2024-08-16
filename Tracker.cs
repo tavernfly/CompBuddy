@@ -639,7 +639,6 @@
             private void Print()
             {
                 TimerStop();
-                string cb = Clipboard.GetText();
                 string date = DateTime.Now.ToString("yyyy/MM/dd");
                 string notes = $"{guild.Title} {(mode.Count > 1 ? mode.Plural : mode.Title)} {date}";
                 if (mode.Posted == mode.Count)
@@ -664,9 +663,10 @@
                     mode.Posted = count;
                 }
                 string comp = $"/comp guild:{guild.Name} comp_type: {mode.Name} count: {count} duration: {time} notes: {notes}";
+                string cb = Clipboard.GetText();
                 Clipboard.SetText(comp);
                 SendKeys.SendWait("^v");
-                Clipboard.SetText(cb);
+                if (!string.IsNullOrEmpty(cb)) Clipboard.SetText(cb);
                 UpdatePosted();
             }
 
