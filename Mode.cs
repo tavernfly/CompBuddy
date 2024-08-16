@@ -21,6 +21,10 @@
             get { return Data.GetTime(guildNumber, this.Number); }
             set { Data.SetTime(guildNumber, this.Number, value); }
         }
+        public int Minutes
+        {
+            get { return Math.Max((int)Math.Ceiling(Time / 60.0), 1); }
+        }
 
         public bool HasTimer => this.compType.HasTimer;
         public bool HasCounter => this.compType.HasCounter;

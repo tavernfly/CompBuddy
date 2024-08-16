@@ -648,17 +648,22 @@
                     mode.PostedText = "";
                 }
                 int count = Math.Min((mode.Count - mode.Posted), 99);
+                int time;
                 if (mode.Count > 99)
                 {
                     mode.Posted += count;
                     double post = mode.Posted / 99.0;
                     double posts = mode.Count / 99.0;
+                    time = (post > 1) ? 0 : mode.Minutes;
                     mode.PostedText = $"{Math.Ceiling(post)} of {Math.Ceiling(posts)}";
                     notes = $"{notes} ({mode.PostedText})";
                 }
                 else
+                {
+                    time = mode.Minutes;
                     mode.Posted = count;
-                string comp = $"/comp guild:{guild.Name} comp_type: {mode.Name} count: {count} duration: {mode.Time} notes: {notes}";
+                }
+                string comp = $"/comp guild:{guild.Name} comp_type: {mode.Name} count: {count} duration: {time} notes: {notes}";
                 Clipboard.SetText(comp);
                 SendKeys.SendWait("^v");
                 Clipboard.SetText(cb);
