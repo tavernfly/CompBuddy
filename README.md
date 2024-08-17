@@ -5,11 +5,11 @@
 INSTALL:
 -------
 Download [CompBuddy 2.0.2](https://github.com/tavernfly/CompBuddy/releases/download/v2.0.2/CompBuddy-2.0.2.zip)<br/>
-Extract the CompBuddy folder anywhere you like. It just needs these 4 files:
-*CompBuddy.exe*
-*CompBuddy.dll*
-*CompBuddy.deps.json*
-*CompBuddy.runtimeconfig.json*
+Extract the CompBuddy folder anywhere you like. It just needs these 4 files:<br/>
+*CompBuddy.exe*<br/>
+*CompBuddy.dll*<br/>
+*CompBuddy.deps.json*<br/>
+*CompBuddy.runtimeconfig.json*<br/>
 
 USE:
 ----
