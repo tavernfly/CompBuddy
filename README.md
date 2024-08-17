@@ -47,4 +47,5 @@ and the notes will say "(1 of 2)" etc. Just keep posting until they're all poste
 
 - CompBuddy will remember your progress if you have to stop and come back, even if the application is closed!
 
+---
 FEEDBACK & SUGGESTIONS WELCOME! :)
