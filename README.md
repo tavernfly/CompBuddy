@@ -23,7 +23,9 @@ USE:
 6. Click on the Gear icon ⚙ in the bottom right to change the hotkey
 7. When you're done, go to #staff-comp and click to hilight the new post field (so it has the flashing '|')
    Then press CTRL+P to autofill the post!
-   
+
+![Post your comp with a single hotkey!](https://github.com/tavernfly/compbuddy/blob/master/ss/ss3.png?raw=true)
+
 HOTKEYS:
 -------------------
 - Increment Counter: Plus (DEFAULT, CUSTOMIZABLE)
