@@ -21,21 +21,21 @@ USE:
    
 HOTKEYS:
 -------------------
-Increment Counter: Plus (DEFAULT, CUSTOMIZABLE)
-Decrement Counter: Alt+Plus (or Alt + above hotkey)
-Timer Start/Stop: Ctrl+Space
-Print Comp: Ctrl+P
-Change Comp Type: Ctrl+1,2,3...7
-Reset Timer: Alt+Space (asks to confirm)
-Reset EVERYTHING: Alt+C (Resets all counters and timers for a new session, asks to confirm)
-Hide CompBuddy (minimize/restore): Ctrl+H
+- Increment Counter: Plus (DEFAULT, CUSTOMIZABLE)
+- Decrement Counter: Alt+Plus (or Alt + above hotkey)
+- Timer Start/Stop: Ctrl+Space
+- Print Comp: Ctrl+P
+- Change Comp Type: Ctrl+1,2,3...7
+- Reset Timer: Alt+Space (asks to confirm)
+- Reset EVERYTHING: Alt+C (Resets all counters and timers for a new session, asks to confirm)
+- Hide CompBuddy (minimize/restore): Ctrl+H
    
 TIPS'n'TRICKS:
 --------------
-You can work on multiple comp types, even multiple guilds at once, and Comp Buddy will keep track of
+- You can work on multiple comp types, even multiple guilds at once, and Comp Buddy will keep track of
 all of it for you. All Counters and Timers are separate!
 
-If you go over 99 count for Marks or any comp type, the maximum of 99 will be posted at a time,
+- If you go over 99 count for Marks or any comp type, the maximum of 99 will be posted at a time,
 and the notes will say "(1 of 2)" etc. Just keep posting until they're all posted! :)
 
-CompBuddy will remember your progress if you have to stop and come back, even if the application is closed!
+- CompBuddy will remember your progress if you have to stop and come back, even if the application is closed!
