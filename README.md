@@ -18,24 +18,24 @@ USE:
 1. Double-click CompBuddy.exe to run the program
 2. Drag the window anywhere on your screen that's convenient
 3. Click on the Guild Name and Comp Type to change them
-4. Press CTRL+Space to start/stop the timer (there is no timer for Marks b/c they don't need one)
-5. Press '+' whenever you do a mark/reward/transaction etc. to increment the count
+4. Press `CTRL`+`Space` to start/stop the timer (there is no timer for Marks b/c they don't need one)
+5. Press '`+`' whenever you do a mark/reward/transaction etc. to increment the count
 6. Click on the Gear icon ⚙ in the bottom right to change the hotkey
-7. When you're done, go to #staff-comp and click to hilight the new post field (so it has the flashing '|')
-   Then press CTRL+P to autofill the post!
+7. When you're done, go to `#staff-comp` and click to hilight the new post field (so it has the flashing `|`)
+   Then press `CTRL`+`P` to autofill the post!
 
 ![Post your comp with a single hotkey!](https://github.com/tavernfly/compbuddy/blob/master/ss/ss3.png?raw=true)
 
 HOTKEYS:
 -------------------
-- Increment Counter: Plus (DEFAULT, CUSTOMIZABLE)
-- Decrement Counter: Alt+Plus (or Alt + above hotkey)
-- Timer Start/Stop: Ctrl+Space
-- Print Comp: Ctrl+P
-- Change Comp Type: Ctrl+1,2,3...7
-- Reset Timer: Alt+Space (asks to confirm)
-- Reset EVERYTHING: Alt+C (Resets all counters and timers for a new session, asks to confirm)
-- Hide CompBuddy (minimize/restore): Ctrl+H
+- Increment Counter: `Plus` (DEFAULT, CUSTOMIZABLE)
+- Decrement Counter: `ALT`+`Plus` (or `ALT` + above hotkey)
+- Timer Start/Stop: `CTRL`+`Space`
+- Print Comp: `CTRL`+`P`
+- Change Comp Type: `CTRL`+`1`,`2`,`3`...`7`
+- Reset Timer: `ALT`+`Space` (asks to confirm)
+- Reset EVERYTHING: `ALT`+`C` (Resets all counters and timers for a new session, asks to confirm)
+- Hide CompBuddy (minimize/restore): `CTRL`+`H`
    
 TIPS'n'TRICKS:
 --------------
@@ -46,3 +46,5 @@ all of it for you. All Counters and Timers are separate!
 and the notes will say "(1 of 2)" etc. Just keep posting until they're all posted! :)
 
 - CompBuddy will remember your progress if you have to stop and come back, even if the application is closed!
+
+FEEDBACK & SUGGESTIONS WELCOME! :)
