@@ -1,5 +1,7 @@
 # CompBuddy by Vern
 
+![it's your little buddy!](https://github.com/tavernfly/compbuddy/blob/master/compbuddy512.png?raw=true)
+
 INSTALL:
 -------
 Extract the CompBuddy folder anywhere you like. It just needs these 4 files:
