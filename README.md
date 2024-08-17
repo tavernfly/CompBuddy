@@ -11,7 +11,7 @@ Extract the CompBuddy folder anywhere you like. It just needs these 4 files:<br/
 *CompBuddy.deps.json*<br/>
 *CompBuddy.runtimeconfig.json*<br/>
 
-![Reposition window anywhere!](https://github.com/tavernfly/compbuddy/blob/master/ss/ss1.png?raw=true)
+![Reposition window anywhere!](https://github.com/tavernfly/compbuddy/blob/master/ss/ss1-2.png?raw=true)
 
 USE:
 ----
