@@ -4,19 +4,20 @@
 
 INSTALL:
 -------
+Download [CompBuddy 2.0.2](https://github.com/tavernfly/CompBuddy/releases/download/v2.0.2/CompBuddy-2.0.2.zip)
 Extract the CompBuddy folder anywhere you like. It just needs these 4 files:
-CompBuddy.exe
-CompBuddy.dll
-CompBuddy.deps.json
-CompBuddy.runtimeconfig.json
+*CompBuddy.exe*
+*CompBuddy.dll*
+*CompBuddy.deps.json*
+*CompBuddy.runtimeconfig.json*
 
 USE:
 ----
-1. Double-click on CompBuddy.exe to run the program.
+1. Double-click CompBuddy.exe to run the program
 2. Drag the window anywhere on your screen that's convenient
 3. Click on the Guild Name and Comp Type to change them
 4. Press CTRL+Space to start/stop the timer (there is no timer for Marks b/c they don't need one)
-5. Press '+' whenever you do a mark/reward/transaction etc. to increment the count.
+5. Press '+' whenever you do a mark/reward/transaction etc. to increment the count
 6. Click on the Gear icon ⚙ in the bottom right to change the hotkey
 7. When you're done, go to #staff-comp and click to hilight the new post field (so it has the flashing '|')
    Then press CTRL+P to autofill the post!
