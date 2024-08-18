@@ -4,7 +4,7 @@
 
 INSTALL:
 -------
-Download [CompBuddy 2.0.3](https://github.com/tavernfly/CompBuddy/releases/download/v2.0.3/CompBuddy-2.0.3.zip)<br/>
+Download [CompBuddy-2.0.3.zip](https://github.com/tavernfly/CompBuddy/releases/download/v2.0.3/CompBuddy-2.0.3.zip)<br/>
 Extract the CompBuddy folder anywhere you like. It just needs these 4 files:<br/>
 *CompBuddy.exe*<br/>
 *CompBuddy.dll*<br/>
