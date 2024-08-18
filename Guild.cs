@@ -14,7 +14,7 @@
         {
             Name = name;
             Title = char.ToUpper(name[0]) + name.Substring(1);
-            Header = name.ToUpper() + "S";
+            Header = name.ToUpper() + ((name.EndsWith("s")) ? "" : "S");
             Hotkey = hotkey;
             Number = number;
             Color = color;

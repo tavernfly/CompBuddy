@@ -4,12 +4,13 @@
 
 INSTALL:
 -------
-Download [CompBuddy 2.0.2](https://github.com/tavernfly/CompBuddy/releases/download/v2.0.2/CompBuddy-2.0.2.zip)<br/>
+Download [CompBuddy 2.0.3](https://github.com/tavernfly/CompBuddy/releases)<br/>
 Extract the CompBuddy folder anywhere you like. It just needs these 4 files:<br/>
 *CompBuddy.exe*<br/>
 *CompBuddy.dll*<br/>
 *CompBuddy.deps.json*<br/>
 *CompBuddy.runtimeconfig.json*<br/>
+(If updating from previous version, replace all 4 of the above files)
 
 ![Reposition window anywhere!](https://github.com/tavernfly/compbuddy/blob/master/ss/ss2-2.png?raw=true)
 
@@ -44,6 +45,8 @@ all of it for you. All Counters and Timers are separate!
 
 - If you go over 99 count for Marks or any comp type, the maximum of 99 will be posted at a time,
 and the notes will say "(1 of 2)" etc. Just keep posting until they're all posted! :)
+
+- You can change the increment counter hotkey to (almost) anything you like, including `CTRL` + hotkeys.
 
 - CompBuddy will remember your progress if you have to stop and come back, even if the application is closed!
 

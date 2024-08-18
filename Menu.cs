@@ -12,7 +12,7 @@ namespace CompBuddy
         private bool open;
         public int labelHeight = (int)(20 * Tracker.scaleY);
         public int panelHeight;
-        public int parentHeight; // = (int)(139 * Tracker.scaleY);
+        public int parentHeight;
         public int padding = (int)(2 * Tracker.scaleY);
         public int hoffset = (int)(46 * Tracker.scaleY);
 
@@ -52,8 +52,6 @@ namespace CompBuddy
             {
                 _parent = value;
                 parentHeight = _parent.Height;
-                //_parent.Controls.Add(MenuPanel);
-                //MenuPanel.BringToFront();
             }
         }
         public TableLayoutPanel Container { get; set; }

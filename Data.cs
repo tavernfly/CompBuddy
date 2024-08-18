@@ -22,7 +22,7 @@ namespace CompBuddy
             new Guild("ranger", "r", 3, Colors.Rangers),
             new Guild("explorer", "e", 4, Colors.Explorers),
             new Guild("hobbit", "h", 5, Colors.Hobbits),
-            new Guild("mage", "w", 6, Colors.Mages)
+            new Guild("mages", "w", 6, Colors.Mages)
         };
 
         public static bool Unsaved;

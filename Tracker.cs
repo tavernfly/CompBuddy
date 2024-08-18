@@ -256,7 +256,6 @@
                 helpLabel = new Label
                 {
                     Text = "",
-                    //TextAlign = System.Drawing.ContentAlignment.MiddleCenter,
                     Dock = DockStyle.Fill
                 };
                 helpButtons = new TableLayoutPanel
@@ -824,15 +823,6 @@
                     Data.Save();
                 base.OnFormClosing(e);
             }
-
-            //private void Tracker_KeyDown(object sender, KeyEventArgs e)
-            //{
-            //    if (e.KeyCode == Keys.Oemplus) // `=` key on US keyboard layout
-            //    {
-            //        mode.Count++;
-            //        countLabel.Text = $"{mode.Plural}: {mode.Count}";
-            //    }
-            //}
         }
     }
 }
